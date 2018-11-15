@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [Employee.cs](./CS/Models/Employee.cs) (VB: [Employee.vb](./VB/Models/Employee.vb))
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+* [TreeListPartial.cshtml](./CS/Views/Home/TreeListPartial.cshtml)
+<!-- default file list end -->
 # TreeList - How to implement optimistic concurrency for the update/delete/drag operations
 
 
